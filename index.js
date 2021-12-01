@@ -1,5 +1,5 @@
 const app = require('./src/app')
-const mongoConnect = require('./src/mongoose')
+const mongoConnect = require('./src/monggose')
 require('dotenv').config();
 
 (async () => {
