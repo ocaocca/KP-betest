@@ -7,3 +7,7 @@ Here is the documentations.
 1. {url}/api/users/register (method post)
 2. {url}/api/users/login (method post)
 3. {url}/api/score/get (method get)
+
+
+how to run:
+please run: node index.js
